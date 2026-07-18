@@ -51,4 +51,34 @@ public class JDBCApp
   }
 }
 
-  
+
+
+
+output:
+Table created Successfully.
+Initial records inserted.
+
+Initial Records:
+Rollno	Name	Address
+1	ravi	hyedrabad
+2	sita	chennai
+3	kiran	bangalore
+6	rav	yedrabad
+7	sit	hennai
+8	iran	angalore
+
+Two new records inserted>
+one record updated
+one record deleted
+
+ Final Records:
+Rollno	Name	Address
+1	ravi	hyedrabad
+2	sita	delhi
+6	rav	yedrabad
+7	sit	hennai
+8	iran	angalore
+9	eena	une
+10	ram	goa
+
+
