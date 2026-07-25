@@ -66,5 +66,29 @@ public class lab2
   }
  }
 } 
+
+
+
+Output:
+Table created successfully.
+Initial records inserted.
+
+Initial Records:
+Rollno	Name	Address
+1	Ravi	Hyderabad
+2	Sita	chennai
+3	Kiran	Bangalore
+Two new records inserted.
+One record updated.
+One record deleted.
+
+Final Records:
+Rollno	Name	Address
+1	Ravi	Hyderabad
+2	Sita	Delhi
+4	Meena	Pune
+5	Ramesh	Mumbai
+
+
    
    
