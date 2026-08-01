@@ -29,4 +29,7 @@ class lab5
   }
  }
 }
-   
+
+Output:
+Last Student record deleted successfully.
+new Student record inserted successfully.
