@@ -47,4 +47,33 @@ public class lab4
  }
 }
 
+Output:
+Records in Forward Direction:
+RollNo	Name	Address
+-----------------------------
+1	Ravi	Hyderabad
+2	Sita	Delhi
+4	Meena	Pune
+5	Ramesh	Mumbai
+
+Records in Backward Direction:
+RollNo	Name	Address
+-----------------------------
+5	Ramesh	Mumbai
+4	Meena	Pune
+2	Sita	Delhi
+1	Ravi	Hyderabad
+
+First record:
+Row1:1	Ravi	Hyderabad
+
+Last record:
+Row4:5	Ramesh	Mumbai
+
+2nd Record from last:
+Row3:4	Meena	Pune
+
+2nd Record from beginning:
+Row2:2	Sita	Delhi
+
   
