@@ -28,4 +28,8 @@ public class lab3 {
         }
     }
        
+Output:
+Database Connected.
+Record inserted successfully.
+Salary for Employee ID 101 is:55000.0
 
